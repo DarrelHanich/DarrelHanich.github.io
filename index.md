@@ -25,10 +25,12 @@ My article that I posted about analyzing the DoorDash data analysis.  I analyzed
 #### [Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/)
 <img src="images/Status of Massachusetts Education.png?raw=true"/>
 (https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/)
+<br><br>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
 How does class size affect college admission?
-What are the top math schools in the state? 
+What districts are performing the best in 4th Grade Math?
+What is the school count and total enrollment, as of 2017?
 
 ---
 
