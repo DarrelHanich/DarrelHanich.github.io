@@ -9,9 +9,10 @@
 Tolulope is the best
 
 ---
-#### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
+#### [Sky's the Limit Analysis](/files/Final Poster at Presentation.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+<br><br>
+For this project, we analyzed data from Sky's the Limit.  Sky's the Limit assists new entrepreneurs in starting new businesses.  They do this by connecting mentors with these entrepreneurs who in turn assist them in the process.  The poster shows how there were some issues in the number of mentors and the number of entrepreneurs based on fields of expertise.  We were also prepping for a new platform rollout.  
 
 ---
 #### [DoorDash Marketing Project (using Excel)](https://www.linkedin.com/pulse/doordash-marketing-match-made-business-darrel-hanich-0gzmc/?trackingId=p7TPiygeS5231v9I1mk3cA%3D%3D)
