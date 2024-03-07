@@ -4,9 +4,10 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/bank)
+#### [World Bank Analysis](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+<br><br>
+This analysis report is coming soon.
 
 ---
 #### [Sky's the Limit Analysis](/files/Final Poster at Presentation.pdf)
