@@ -12,7 +12,8 @@ Tolulope is the best
 #### [Sky's the Limit Analysis](/files/Final Poster at Presentation.pdf)
 <img src="images/Org Logo for Project.png?raw=true"/>
 <br><br>
-For this project, we analyzed data from Sky's the Limit.  Sky's the Limit assists new entrepreneurs in starting new businesses.  They do this by connecting mentors with these entrepreneurs who in turn assist them in the process.  The poster shows how there were some issues in the number of mentors and the number of entrepreneurs based on fields of expertise.  We were also prepping for a new platform rollout.  
+For this project, we analyzed data from Sky's the Limit.  Sky's the Limit assists new entrepreneurs in starting new businesses.  They do this by connecting mentors with these entrepreneurs who in turn assist them in the process.  The poster shows how there were some issues in the number of mentors and the number of entrepreneurs based on fields of expertise.  We were also prepping for a new platform rollout.
+We utilized SQL within Metabase to do all of the analysis.  I would love to tell you more.
 
 ---
 #### [DoorDash Marketing Project (using Excel)](https://www.linkedin.com/pulse/doordash-marketing-match-made-business-darrel-hanich-0gzmc/?trackingId=p7TPiygeS5231v9I1mk3cA%3D%3D)
