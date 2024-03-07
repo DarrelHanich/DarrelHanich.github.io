@@ -10,7 +10,7 @@ Tolulope is the best
 
 ---
 #### [Sky's the Limit Analysis](/files/Final Poster at Presentation.pdf)
-<img src="/files/Final Poster at Presentation.pdf?raw=true"/>
+<img src="images/Skys Logo_nav.svg?raw=true"/>
 <br><br>
 For this project, we analyzed data from Sky's the Limit.  Sky's the Limit assists new entrepreneurs in starting new businesses.  They do this by connecting mentors with these entrepreneurs who in turn assist them in the process.  The poster shows how there were some issues in the number of mentors and the number of entrepreneurs based on fields of expertise.  We were also prepping for a new platform rollout.  
 
