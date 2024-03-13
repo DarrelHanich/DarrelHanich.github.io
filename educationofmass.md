@@ -30,4 +30,4 @@ Parents should be aware of this data and results.  This may influence where kids
 
 ### 2. You can add any images you'd like. 
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Status of Massachusetts Education.png?raw=true"/>
