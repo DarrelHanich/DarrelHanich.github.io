@@ -10,6 +10,14 @@
 This analysis report is coming soon.
 
 ---
+
+#### [Status of the Education System of Massachusetts](/educationofmass.md)
+<img src="images/Status of Massachusetts Education.png?raw=true"/>
+
+In this analysis of the education system of Massachusetts, we find some results that go against the standard, as well as areas of concern for parents as well as the state.  Please read to learn more.
+
+---
+
 #### [Sky's the Limit Analysis](/files/Final Poster at Presentation.pdf)
 <img src="images/Org Logo for Project.png?raw=true"/>
 <br><br>
@@ -17,14 +25,15 @@ For this project, we analyzed data from Sky's the Limit.  Sky's the Limit assist
 We utilized SQL within Metabase to do all of the analysis.  I would love to tell you more.
 
 ---
+
 #### [DoorDash Marketing Project (using Excel)](https://www.linkedin.com/pulse/doordash-marketing-match-made-business-darrel-hanich-0gzmc/?trackingId=p7TPiygeS5231v9I1mk3cA%3D%3D)
 <img src="images/doordash-1-1536x870.webp?raw=true"/>
 <a href="https://www.linkedin.com/pulse/doordash-marketing-match-made-business-darrel-hanich-0gzmc/?trackingId=p7TPiygeS5231v9I1mk3cA%3D%3D"> View my article on Door Dash </a>
 <br><br>
 My article that I posted about analyzing the DoorDash data analysis.  I analyzed marketing data to that shows how DoorDash markets so well and produces such great revenue. 
 
-
 ---
+
 #### [Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/)
 <img src="images/Status of Massachusetts Education.png?raw=true"/>
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/"> View my post on the State of Education in Massachusetts </a>
