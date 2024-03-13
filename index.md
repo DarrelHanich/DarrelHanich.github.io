@@ -27,7 +27,7 @@ My article that I posted about analyzing the DoorDash data analysis.  I analyzed
 ---
 #### [Education Project](https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/)
 <img src="images/Status of Massachusetts Education.png?raw=true"/>
-(https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/)
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7168096543474929666/"> View my post on the State of Education in Massachusetts </a>
 <br><br>
 In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
 What schools are struggling the most?
