@@ -1,6 +1,6 @@
 # Fiscal Responsibility: Which Countries Have it and Which do not?
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/World Bank Image.jpg?raw=true"/>
 
 We all hear about being fiscally responsible.  We also know about the need to budget and spend within our limits.  Do countries follow it? Or are there countries that do not understand those principles.
 <br><br>
