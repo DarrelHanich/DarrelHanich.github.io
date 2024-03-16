@@ -69,7 +69,7 @@ How is the DR in borrowing and paying their debts.
 <br><br>
 These may be simple queries, but simple queries can, at times, produce some amazing results.
 <br><br>
-I love analyzing data.  I am not afraid to analyze different data and see what it tells me.  Please contact me if you have data that needs analyzed so we can talk about how I can help you discover your results and improve you company or business.  Please contact and connect with me on LinkedIn (link provided on main page).
+I love analyzing data.  I am not afraid to analyze different data and see what it tells me.  Please contact me if you have data that needs analyzed so we can talk about how I can help you discover your results and improve you company or business.  Please contact and connect with me on LinkedIn (link provided on the left).
 
 
 
