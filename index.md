@@ -5,9 +5,9 @@
 ### Learn About My Projects
 
 #### [World Bank Analysis](/bank)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/World Bank Building.jpg?raw=true"/>
 <br><br>
-This analysis report is coming soon.
+Here I utilized SQL to analyze the latest snapshot of the World Bank Loan Data to see which countries are being fiscally responsible and which countries are big borrowers.  This was to show us how different countries are doing financially.  I also included information on the Dominican Republic.
 
 ---
 
