@@ -2,6 +2,7 @@
 
 --- 
 I am Darrel Hanich.  I love analyzing data.  Here is an assortment of my projects that I have completed.  I will be including more as time goes on.  Please Enjoy the information gained.
+<br><br>
 ---
 
 ### Learn About My Projects
