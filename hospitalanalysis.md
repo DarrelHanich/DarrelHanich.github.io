@@ -89,12 +89,12 @@ These summary statements tell us what patient were readmitted or not, the number
 **Summary**
 ---
 <br><br>
-- Verify the length of stay for patients.
-- Top 5 Specialties provided at the hospital.
-- Correlation of Lab Procedures by race/ethnic group.
-- Relationship between lab procedures and length of stay.
-- Assembling a list of people to further research for deeper reasonings.
-- Success Stories 
+- I found that most patients stayed for less than 7 days.
+- Cardiology is a top procedure at this hospital.
+- There is no difference between racial groups and number of procedures.
+- The more procedures a patient has, the longer the stay to do those procedures.
+- I compiled a list of patients that further analysis for specialized treatment.  This includes African Americans and those that increased their Metformin.
+- I published a list of patients with their medication counts, number of lab procedures, and whether they were readmitted.
 <br><br>
 ---
 **Call to Action**
