@@ -81,7 +81,7 @@ For this analysis, I created statements that identified patients that did not re
 <br><br>
 <img src="images/Success Stories Query.png?raw=true"/>
 <br><br>
-<img src="images/Success Stories Results.png?raw=true"/>
+<img src="images/Success Stories snapshot.png?raw=true"/>
 <br><br>
 Analysis of Results
 <br><br>
