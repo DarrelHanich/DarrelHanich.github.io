@@ -9,7 +9,9 @@ We have either been to a hospital for ourselves or for a loved one.  Depending o
 <br><br>
 The hospital in question asked me to analyze the data given and to determine how they are doing.  They provided the data in 2 separate tables, specifically about demographics and health information. The data was originally collected on Kaggle and then formatted to create the tables in MySQL.  I then utilized SQL to collect and analyze the data for specific procedures as directed.
 <br><br>
+---
 **THE QUESTIONS**
+---
 <br><br>
 The questions I was asked to analyze were as follows:
 - Verify the length of stay for patients.
