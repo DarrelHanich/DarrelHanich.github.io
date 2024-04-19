@@ -11,12 +11,12 @@ The hospital in question asked me to analyze the data given and to determine how
 THE QUESTIONS
 <br><br>
 The questions I was asked to analyze were as follows:
-1.	Verify the length of stay for patients.
-2.	Top 5 Specialties provided at the hospital.
-3.	Correlation of Lab Procedures by race/ethnic group.
-4.	Relationship between lab procedures and length of stay.
-5.	Assembling a list of people to further research for deeper reasonings.
-6.	Success Stories 
+- Verify the length of stay for patients.
+- Top 5 Specialties provided at the hospital.
+- Correlation of Lab Procedures by race/ethnic group.
+- Relationship between lab procedures and length of stay.
+- Assembling a list of people to further research for deeper reasonings.
+- Success Stories 
 <br><br>
 THE ANALYSIS
 <br><br>
@@ -82,12 +82,12 @@ Analysis of Results
 <br><br>
 Summary
 <br><br>
-1.	Verify the length of stay for patients.
-2.	Top 5 Specialties provided at the hospital.
-3.	Correlation of Lab Procedures by race/ethnic group.
-4.	Relationship between lab procedures and length of stay.
-5.	Assembling a list of people to further research for deeper reasonings.
-6.	Success Stories 
+- Verify the length of stay for patients.
+- Top 5 Specialties provided at the hospital.
+- Correlation of Lab Procedures by race/ethnic group.
+- Relationship between lab procedures and length of stay.
+- Assembling a list of people to further research for deeper reasonings.
+- Success Stories 
 <br><br>
 ##Call to Action
 <br><br>
