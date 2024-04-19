@@ -33,27 +33,27 @@ For analyzing the length of stay for patients, I drew a histogram.  Here is the 
 <br><br>
 <img src="images/Histogram of Time in Hospital.png?raw=true"/>
 <br><br>
-As we can see in the histogram, we see that the majority of patients are staying less than 7 days.  This would show that the hospital works to be efficient with their care.
+As we can see in the histogram, I discovered that the majority of patients are staying less than 7 days.  This would show that the hospital works to be efficient with their care.
 <br><br>
 _Top 5 Specialties_
 <br><br>
-For determining the top 5 specialties, we filtered out of the health table the medical specialties with the most average procedures and the count of all these procedures.  
+For determining the top 5 specialties, I filtered out of the health table the medical specialties with the most average procedures and the count of all these procedures.  I was asked to determine the top 5 procedures for average procedures and the count.
 <br><br>
 <img src="images/Top 5 Procedures Query.png?raw=true"/>
 <br><br>
 <img src="images/Top 5 Procedures Results.png?raw=true"/>
 <br><br>
-Analysis of Table
+From this table, we see that surgery for the cardiovascular and thoracic area are among the top surgical procedures, which would be an indicator that this hospital is a major thoracic surgery center.  Radiology is common as this deals with imaging and certain treatments.  Cardiology deals with the heart and those issues.
 <br><br>
 _Correlation of Lab Procedures by Race_
 <br><br>
-To do this, I tied the demographic table with the health table and counted the lab procedures and sorted by race to build this data.
+To do this, I tied the demographic table with the health table and counted the lab procedures and sorted by race to build this data.  I was asked to determine if there is a level of racial profiling or bias at the hospital.
 <br><br>
 <img src="images/Race Analysis Query.png?raw=true"/>
 <br><br>
 <img src="images/Race Analysis for Procedures Results.png?raw=true"/>
 <br><br>
-Analysis of Table
+From the table, I found that there is no real difference on the number of procedures performed to different racial groups.
 <br><br>
 _Relationship of Procedures to Length of Stay_
 <br><br>
@@ -63,7 +63,7 @@ For this analysis, I analyzed the average number of procedures with the length o
 <br><br>
 <img src="images/Time to Procedures Count Results.png?raw=true"/>
 <br><br>
-Analysis of results
+
 <br><br>
 _List of Patients to research_
 <br><br>
