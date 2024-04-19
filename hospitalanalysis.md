@@ -27,13 +27,13 @@ The questions I was asked to analyze were as follows:
 <br><br>
 _Length of Stay for Patients_
 <br><br>
-For analyzing the length of stay for patients, I drew a histogram.  Here is the code I used to do the histogram within SQL, along with the results.
+For analyzing the length of stay for patients, I drew a histogram.  Here is the code I used to do the histogram within SQL, along with the results.  The specific question that I was asked to obtain is "Are a majority of our patients staying longer than 7 days?"
 <br><br>
 <img src="images/Histogram of time query.png?raw=true"/>
 <br><br>
 <img src="images/Histogram of Time in Hospital.png?raw=true"/>
 <br><br>
-The analysis of the histogram
+As we can see in the histogram, we see that the majority of patients are staying less than 7 days.  This would show that the hospital works to be efficient with their care.
 <br><br>
 _Top 5 Specialties_
 <br><br>
