@@ -19,6 +19,7 @@ The questions I was asked to analyze were as follows:
 - Assembling a list of people to further research for deeper reasonings.
 - Success Stories 
 <br><br>
+---
 **THE ANALYSIS**
 <br><br>
 _Length of Stay for Patients_
@@ -81,6 +82,7 @@ Snapshot of Results
 <br><br>
 Analysis of Results
 <br><br>
+---
 **Summary**
 <br><br>
 - Verify the length of stay for patients.
@@ -90,6 +92,7 @@ Analysis of Results
 - Assembling a list of people to further research for deeper reasonings.
 - Success Stories 
 <br><br>
+---
 **Call to Action**
 <br><br>
 With this analysis, we can see how hospitals work to be efficient and effective with the care that they administer.  If this kind of analysis is of interest to you, please contact me.  I find analysis of data to be incredibly insightful.  I am also looking to get into data analytics.  If you have a position where these skills would be useful, please contact me.
