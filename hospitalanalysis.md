@@ -63,17 +63,17 @@ For this analysis, I analyzed the average number of procedures with the length o
 <br><br>
 <img src="images/Time to Procedures Count Results.png?raw=true"/>
 <br><br>
-
+This table shows what should be expected.  The more procedures needed is correlated to the length of stay.  This would show that thoroughness is important in medical care.
 <br><br>
 _List of Patients to research_
 <br><br>
-For this analysis, I looked for patient numbers that are both African American and had an increase in Metformin.
+For this analysis, I looked for patient numbers that are both African American and had an increase in Metformin.  I was asked to collect a list of patient numbers that are African American and received an increase in Metformin.  This is a compiled list.
 <br><br>
 <img src="images/Metformin and African American Query.png?raw=true"/>
 <br><br>
 <img src="images/Metformin and African American Results.png?raw=true"/>
 <br><br>
-Analysis of Results
+This list was given to other individuals that would further do research to determine questions fielded by hospital management and doctors.
 <br><br>
 _Success Stories_
 <br><br>
@@ -83,7 +83,7 @@ For this analysis, I created statements that identified patients that did not re
 <br><br>
 <img src="images/Patient Summary Results.png?raw=true"/>
 <br><br>
-Analysis of Results
+These summary statements tell us what patient were readmitted or not, the number of medications and the number of lab procedures each got.  This is good information to help staff improve care.
 <br><br>
 ---
 **Summary**
