@@ -79,9 +79,9 @@ _Success Stories_
 <br><br>
 For this analysis, I created statements that identified patients that did not return and the number of medications and lab procedures.  
 <br><br>
-<img src="images/Success Stories Query.png?raw=true"/>
+<img src="images/Patient Summary Query.png?raw=true"/>
 <br><br>
-<img src="images/Success Stories snapshot.png?raw=true"/>
+<img src="images/Patient Summary Results.png?raw=true"/>
 <br><br>
 Analysis of Results
 <br><br>
