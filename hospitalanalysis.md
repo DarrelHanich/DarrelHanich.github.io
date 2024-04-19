@@ -29,9 +29,9 @@ _Length of Stay for Patients_
 <br><br>
 For analyzing the length of stay for patients, I drew a histogram.  Here is the code I used to do the histogram within SQL, along with the results.
 <br><br>
-Code for Histogram
+<img src="images/Histogram of time query.png?raw=true"/>
 <br><br>
-Visual of Histogram
+<img src="images/Histogram of Time in Hospital.png?raw=true"/>
 <br><br>
 The analysis of the histogram
 <br><br>
@@ -39,9 +39,9 @@ _Top 5 Specialties_
 <br><br>
 For determining the top 5 specialties, we filtered out of the health table the medical specialties with the most average procedures and the count of all these procedures.  
 <br><br>
-Code for Specialties
+<img src="images/Top 5 Procedures Query.png?raw=true"/>
 <br><br>
-Snapshot of Table with Specialties
+<img src="images/Top 5 Procedures Results.png?raw=true"/>
 <br><br>
 Analysis of Table
 <br><br>
@@ -49,9 +49,9 @@ _Correlation of Lab Procedures by Race_
 <br><br>
 To do this, I tied the demographic table with the health table and counted the lab procedures and sorted by race to build this data.
 <br><br>
-Code for Correlation
+<img src="images/Race Analysis Query.png?raw=true"/>
 <br><br>
-Snapshot of Table
+<img src="images/Race Analysis for Procedures Results.png?raw=true"/>
 <br><br>
 Analysis of Table
 <br><br>
@@ -59,9 +59,9 @@ _Relationship of Procedures to Length of Stay_
 <br><br>
 For this analysis, I analyzed the average number of procedures with the length of stay.  I would say that the results are self-explanatory.
 <br><br>
-Code for Analysis
+<img src="images/Time to Procedures Query.png?raw=true"/>
 <br><br>
-Snapshot of Results
+<img src="images/Time to Procedures Count Results.png?raw=true"/>
 <br><br>
 Analysis of results
 <br><br>
@@ -69,9 +69,9 @@ _List of Patients to research_
 <br><br>
 For this analysis, I looked for patient numbers that are both African American and had an increase in Metformin.
 <br><br>
-Code for Analysis
+<img src="images/Metformin and African American Query.png?raw=true"/>
 <br><br>
-Snapshot of Results
+<img src="images/Metformin and African American Results.png?raw=true"/>
 <br><br>
 Analysis of Results
 <br><br>
@@ -79,9 +79,9 @@ _Success Stories_
 <br><br>
 For this analysis, I created statements that identified patients that did not return and the number of medications and lab procedures.  
 <br><br>
-Code for Analysis
+<img src="images/Success Stories Query.png?raw=true"/>
 <br><br>
-Snapshot of Results
+<img src="images/Success Stories Results.png?raw=true"/>
 <br><br>
 Analysis of Results
 <br><br>
