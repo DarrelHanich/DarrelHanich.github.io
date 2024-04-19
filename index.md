@@ -11,6 +11,13 @@ Here I utilized SQL to analyze the latest snapshot of the World Bank Loan Data t
 
 ---
 
+#### [Hospital/Medical Care Analysis](/hospitalanalysis)
+<img src="images/Hospital Image.jpg?raw=true"/>
+<br><br>
+In this analysis, I analyzed health and demographic data for a hospital to identify different trends.  I used MySQL to compile and organize the data for analysis.
+
+---
+
 #### [Status of the Education System of Massachusetts](/educationofmass.md)
 <img src="images/Status of Massachusetts Education.png?raw=true"/>
 
