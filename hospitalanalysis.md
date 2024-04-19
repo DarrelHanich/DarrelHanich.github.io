@@ -1,6 +1,6 @@
 ## How are Hospitals Doing to Manage Care
 
-
+<img src="images/?raw=true"/>
 
 We have either been to a hospital for ourselves or for a loved one.  Depending on the issue, our stay can be short, i.e. for lab work, or a quick procedure.  Our stay could also be long.  Each hospital is limited to the number of beds that they have.  Certain hospitals also specialize in specific procedures.  It would be interesting to know how each hospital does for specific procedures and how they treat different groups based on current stereotypical trends.  
 The hospital in question asked me to analyze the data given and to determine how they are doing.  They provided the data in 2 separate tables, specifically about demographics and health information. The data was originally collected on Kaggle and then formatted to create the tables in MySQL.  I then utilized SQL to collect and analyze the data for specific procedures as directed.
